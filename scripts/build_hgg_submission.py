@@ -308,9 +308,9 @@ Human genetics; genetic correlation; polygenic liability; single-cell genomics; 
 
 ## Data and code availability
 
-The GWAS summary statistics and retinal transcriptomic and chromatin-accessibility resources used in this study are publicly available through the accessions and source publications listed in Table 1 and the Web resources section. Derived analysis tables and figure source data will be deposited in a versioned public repository before submission; the permanent accession and access conditions will be added to this statement when the deposit is complete.
+The GWAS summary statistics and retinal transcriptomic and chromatin-accessibility resources used in this study are publicly available through the accessions and source publications listed in Table 1 and the Web resources section. Derived analysis tables and figure source data are available at https://github.com/seefreewind/retinaplex-state-hgg-advances. A permanent archive accession and access conditions will be added when the archival deposit is complete.
 
-The analysis code and figure-assembly code will be deposited in a versioned public repository with an archived release before submission; the public URL, release tag, archival DOI and license will be added when the release is complete.
+The analysis and figure-assembly code, frozen configuration, provenance records and environment specifications are available at https://github.com/seefreewind/retinaplex-state-hgg-advances. The release tag, archival DOI and approved license will be added before submission.
 
 ## Web resources
 
@@ -319,7 +319,7 @@ The analysis code and figure-assembly code will be deposited in a versioned publ
 - NCBI BioProject: PRJNA1104225; HCA Data Portal eye network.
 - CELLxGENE HRCA collection; UCSC Retina Cell Browser; Single Cell Portal accessions SCP2805-SCP2808.
 - RE_2026_EUR_COMPOSITE source publication: doi:10.1038/s41588-026-02576-0.
-- Project-derived tables and code: versioned public repository release to be added before submission.
+- Project-derived tables and code: https://github.com/seefreewind/retinaplex-state-hgg-advances.
 
 ## Supplemental Information
 
