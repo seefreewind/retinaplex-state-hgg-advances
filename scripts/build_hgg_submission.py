@@ -308,9 +308,9 @@ Human genetics; genetic correlation; polygenic liability; single-cell genomics; 
 
 ## Data and code availability
 
-The GWAS summary statistics and retinal transcriptomic and chromatin-accessibility resources used in this study are publicly available through the accessions and source publications listed in Table 1 and the Web resources section. Derived analysis tables and figure source data are available at https://github.com/seefreewind/retinaplex-state-hgg-advances. A permanent archive accession and access conditions will be added when the archival deposit is complete.
+The GWAS summary statistics and retinal transcriptomic and chromatin-accessibility resources used in this study are publicly available through the accessions and source publications listed in Table 1 and the Web resources section. Derived analysis tables and figure source data are available in release v1.0.0 at https://github.com/seefreewind/retinaplex-state-hgg-advances. A permanent archive accession and access conditions will be added when the archival deposit is complete.
 
-The analysis and figure-assembly code, frozen configuration, provenance records and environment specifications are available at https://github.com/seefreewind/retinaplex-state-hgg-advances. The release tag, archival DOI and approved license will be added before submission.
+The analysis and figure-assembly code, frozen configuration, provenance records and environment specifications are available in release v1.0.0 at https://github.com/seefreewind/retinaplex-state-hgg-advances. Code is licensed under the MIT License, and derived tables and figure source data are licensed under CC BY 4.0. The archival DOI will be added when the permanent deposit is complete.
 
 ## Web resources
 
@@ -319,7 +319,7 @@ The analysis and figure-assembly code, frozen configuration, provenance records 
 - NCBI BioProject: PRJNA1104225; HCA Data Portal eye network.
 - CELLxGENE HRCA collection; UCSC Retina Cell Browser; Single Cell Portal accessions SCP2805-SCP2808.
 - RE_2026_EUR_COMPOSITE source publication: doi:10.1038/s41588-026-02576-0.
-- Project-derived tables and code: https://github.com/seefreewind/retinaplex-state-hgg-advances.
+- Project-derived tables and code: https://github.com/seefreewind/retinaplex-state-hgg-advances, release v1.0.0.
 
 ## Supplemental Information
 
