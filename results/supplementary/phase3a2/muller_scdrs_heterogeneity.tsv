@@ -1,0 +1,4 @@
+trait	broad_class	n_cell	hetero_mcp	hetero_mcz	analysis_role
+AMD	Muller glia	9534.0	0.004995005	4.3012533	secondary_official_within_Muller_heterogeneity
+POAG	Muller glia	9534.0	0.1878122	0.69408137	secondary_official_within_Muller_heterogeneity
+RE	Muller glia	9534.0	0.007992008	3.3256557	secondary_official_within_Muller_heterogeneity

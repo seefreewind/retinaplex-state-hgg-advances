@@ -1,0 +1,4 @@
+trait	input_cells	output_cells	trait_genes	matched_genes	finite_raw_scores	finite_normalized_scores	finite_norm_fraction	NaN	Inf	control_sets	runtime_seconds	runtime_warnings	preprocess_warnings	status
+AMD	98834	98834	1000	962	98834	98834	1.0	0	0	1000	1040.56	none	none	PASS
+POAG	98834	98834	1000	937	98834	98834	1.0	0	0	1000	497.59	none	none	PASS
+RE	98834	98834	1000	955	98834	98834	1.0	0	0	1000	492.63	none	none	PASS

@@ -1,0 +1,2 @@
+reference	cells	genes	donors	samples	broad_classes	exact_official_annotation_fraction	source_cells_in_mapping	source_matrix_bytes	sparse	status
+HRCA_EXACT_MAPPED_HEALTHY_CORE	98834	36601	8	8	9	1.0	98834	396967118	True	PASS

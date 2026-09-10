@@ -1,0 +1,141 @@
+{
+  "dataset_id": "POAG_GCST90011767",
+  "file": "data/raw/POAG/GCST90011767/GCST90011767_buildGRCh37.tsv.gz",
+  "file_size_bytes": 209981984,
+  "raw_row_count": 12713176,
+  "columns": [
+    "chromosome",
+    "base_pair_location",
+    "variant_id",
+    "effect_allele",
+    "other_allele",
+    "beta",
+    "standard_error",
+    "p_value"
+  ],
+  "column_mapping": {
+    "chromosome": "chromosome",
+    "position": "base_pair_location",
+    "rsid": "variant_id",
+    "effect_allele": "effect_allele",
+    "other_allele": "other_allele",
+    "beta": "beta",
+    "or": null,
+    "se": "standard_error",
+    "p": "p_value",
+    "eaf": null,
+    "info": null,
+    "n": null
+  },
+  "chromosome_values_top": [
+    [
+      "2",
+      1048974
+    ],
+    [
+      "1",
+      962485
+    ],
+    [
+      "4",
+      904395
+    ],
+    [
+      "3",
+      889230
+    ],
+    [
+      "6",
+      819489
+    ],
+    [
+      "5",
+      806579
+    ],
+    [
+      "7",
+      722312
+    ],
+    [
+      "8",
+      696051
+    ],
+    [
+      "10",
+      629618
+    ],
+    [
+      "11",
+      617842
+    ],
+    [
+      "12",
+      593032
+    ],
+    [
+      "9",
+      533058
+    ],
+    [
+      "13",
+      454023
+    ],
+    [
+      "14",
+      405996
+    ],
+    [
+      "16",
+      385085
+    ],
+    [
+      "15",
+      356049
+    ],
+    [
+      "18",
+      355798
+    ],
+    [
+      "17",
+      330908
+    ],
+    [
+      "23",
+      317062
+    ],
+    [
+      "20",
+      278077
+    ],
+    [
+      "19",
+      273411
+    ],
+    [
+      "21",
+      167783
+    ],
+    [
+      "22",
+      165919
+    ]
+  ],
+  "chromosome_x_presence": false,
+  "duplicate_variant_key_count": 19945,
+  "duplicate_rsid_count": 19950,
+  "indel_or_non_snp_allele_count": 281315,
+  "ambiguous_at_cg_snp_count": 1885568,
+  "non_biallelic_count": 0,
+  "invalid_allele_count": 281315,
+  "invalid_p_value_count": 0,
+  "invalid_se_count": 0,
+  "invalid_eaf_count": 0,
+  "contains_beta": true,
+  "contains_or": false,
+  "contains_se": true,
+  "contains_p": true,
+  "contains_eaf": false,
+  "contains_n": false,
+  "contains_info": false
+}

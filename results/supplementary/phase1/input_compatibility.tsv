@@ -1,0 +1,5 @@
+trait	genome_build	ancestry	munged_snps	reference_panel	ld_score_resource	allele_check	warnings	phase1_eligible
+AMD_GCST003219	GRCh37_likely	European	1194324_HM3	1000G_EUR	data/ld_reference/ldsc_standard/eur_w_ld_chr	standard_LDSC_merge	AMD signed Z reconstructed from GC.Pvalue and Overall; no beta/SE	TRUE
+POAG_GCST90011766	GRCh37	European	1209070_HM3	1000G_EUR	data/ld_reference/ldsc_standard/eur_w_ld_chr	standard_LDSC_merge	no_EAF; fixed case-control N used	TRUE
+RE_2026_EUR_COMPOSITE	GRCh37-compatible_likely	European	708382_HM3	1000G_EUR	data/ld_reference/ldsc_standard/eur_w_ld_chr	standard_LDSC_merge	composite phenotype; per-variant N; source header does not state build	TRUE
+POAG_GCST90011767	GRCh37	European	1208801_HM3	1000G_EUR	data/ld_reference/ldsc_standard/eur_w_ld_chr	standard_LDSC_merge	no_EAF; fixed case-control N used; UKBB excluded	TRUE

@@ -1,0 +1,11 @@
+resource	source_build	analysis_build	chain_file	input_regions	lifted_rows	lifted_unique_intervals	failed_rows	multimapped_rows	discordant_rows	notes
+official_majorclass_ocr_union	GRCh38/hg38	GRCh37/hg19	PROJECT_ROOT/data/hrca/official_release/liftover/hg38ToHg19.over.chain.gz	1657138	1653081	1653081	1789	0	2268	Each class is lifted independently; repeated intervals across classes are retained for class annotations
+Astrocyte	GRCh38/hg38	GRCh37/hg19	PROJECT_ROOT/data/hrca/official_release/liftover/hg38ToHg19.over.chain.gz	158797	158394	158394	193	0	210	Official Table S12 class OCR
+Microglia	GRCh38/hg38	GRCh37/hg19	PROJECT_ROOT/data/hrca/official_release/liftover/hg38ToHg19.over.chain.gz	176600	176040	176040	274	0	286	Official Table S12 class OCR
+MG	GRCh38/hg38	GRCh37/hg19	PROJECT_ROOT/data/hrca/official_release/liftover/hg38ToHg19.over.chain.gz	167637	167255	167255	194	0	188	Official Table S12 class OCR
+RGC	GRCh38/hg38	GRCh37/hg19	PROJECT_ROOT/data/hrca/official_release/liftover/hg38ToHg19.over.chain.gz	205224	204804	204804	209	0	211	Official Table S12 class OCR
+AC	GRCh38/hg38	GRCh37/hg19	PROJECT_ROOT/data/hrca/official_release/liftover/hg38ToHg19.over.chain.gz	215994	215406	215406	251	0	337	Official Table S12 class OCR
+HC	GRCh38/hg38	GRCh37/hg19	PROJECT_ROOT/data/hrca/official_release/liftover/hg38ToHg19.over.chain.gz	167646	167267	167267	190	0	189	Official Table S12 class OCR
+BC	GRCh38/hg38	GRCh37/hg19	PROJECT_ROOT/data/hrca/official_release/liftover/hg38ToHg19.over.chain.gz	211077	210607	210607	205	0	265	Official Table S12 class OCR
+Cone	GRCh38/hg38	GRCh37/hg19	PROJECT_ROOT/data/hrca/official_release/liftover/hg38ToHg19.over.chain.gz	218488	218006	218006	161	0	321	Official Table S12 class OCR
+Rod	GRCh38/hg38	GRCh37/hg19	PROJECT_ROOT/data/hrca/official_release/liftover/hg38ToHg19.over.chain.gz	135675	135302	135302	112	0	261	Official Table S12 class OCR

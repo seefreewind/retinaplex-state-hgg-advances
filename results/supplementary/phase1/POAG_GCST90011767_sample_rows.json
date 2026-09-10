@@ -1,0 +1,102 @@
+[
+  {
+    "chromosome": "1",
+    "base_pair_location": "693731",
+    "variant_id": "rs12238997",
+    "effect_allele": "A",
+    "other_allele": "G",
+    "beta": "-0.0224",
+    "standard_error": "0.0258",
+    "p_value": "0.3849"
+  },
+  {
+    "chromosome": "1",
+    "base_pair_location": "705882",
+    "variant_id": "rs72631875",
+    "effect_allele": "A",
+    "other_allele": "G",
+    "beta": "0.0722",
+    "standard_error": "0.0902",
+    "p_value": "0.4236"
+  },
+  {
+    "chromosome": "1",
+    "base_pair_location": "705942",
+    "variant_id": "rs544671234",
+    "effect_allele": "A",
+    "other_allele": "T",
+    "beta": "-0.1109",
+    "standard_error": "0.2832",
+    "p_value": "0.6953"
+  },
+  {
+    "chromosome": "1",
+    "base_pair_location": "706368",
+    "variant_id": "rs12029736",
+    "effect_allele": "A",
+    "other_allele": "G",
+    "beta": "0.0338",
+    "standard_error": "0.0292",
+    "p_value": "0.2465"
+  },
+  {
+    "chromosome": "1",
+    "base_pair_location": "713131",
+    "variant_id": "rs200310424",
+    "effect_allele": "A",
+    "other_allele": "AT",
+    "beta": "0.1327",
+    "standard_error": "0.1046",
+    "p_value": "0.2043"
+  },
+  {
+    "chromosome": "1",
+    "base_pair_location": "714596",
+    "variant_id": "rs149887893",
+    "effect_allele": "T",
+    "other_allele": "C",
+    "beta": "0.0465",
+    "standard_error": "0.0617",
+    "p_value": "0.4516"
+  },
+  {
+    "chromosome": "1",
+    "base_pair_location": "715265",
+    "variant_id": "rs12184267",
+    "effect_allele": "T",
+    "other_allele": "C",
+    "beta": "-0.0491",
+    "standard_error": "0.0582",
+    "p_value": "0.3993"
+  },
+  {
+    "chromosome": "1",
+    "base_pair_location": "715367",
+    "variant_id": "rs12184277",
+    "effect_allele": "A",
+    "other_allele": "G",
+    "beta": "0.0433",
+    "standard_error": "0.0575",
+    "p_value": "0.4521"
+  },
+  {
+    "chromosome": "1",
+    "base_pair_location": "717485",
+    "variant_id": "rs12184279",
+    "effect_allele": "A",
+    "other_allele": "C",
+    "beta": "-0.0480",
+    "standard_error": "0.0583",
+    "p_value": "0.4102"
+  },
+  {
+    "chromosome": "1",
+    "base_pair_location": "717587",
+    "variant_id": "rs144155419",
+    "effect_allele": "A",
+    "other_allele": "G",
+    "beta": "0.1419",
+    "standard_error": "0.1628",
+    "p_value": "0.3836"
+  }
+]

@@ -1,0 +1,79 @@
+record_type	source	donor_id	sample_id_or_group_replicate	retinal_regions	ancestry	age	n_cells	n_donors	n_samples	broad_class	n_peaks	source_genome_build	analysis_genome_build	phase3a_overlap	notes
+resource_summary	official_supplement_Table_S10_S11			Peripheral;Unknown;fovea;macular	Admixed American;African;East Asian;European;Unknown	21-91	477180	35	70					Chen_19_D007;Chen_19_D009;Chen_19_D010;Chen_D005_13;Chen_D009_13	Official full HRCA snATAC release; sample metadata from Table S11A
+resource_summary	UCSC_HRCA_major_object				European;Hispanic or Latin American;Asian		372967	26	61	9		GRCh38/hg38		Current UCSC major object is a distinct published browser object; not mixed into peak counts
+donor	official_supplement_Table_S11A	BCM_22_0183		Peripheral;fovea	European	21		1	3					ATAC_ONLY	donor-level metadata; class membership is represented in the official peak tables
+donor	official_supplement_Table_S11A	BCM_22_0389		fovea	European	67		1	1					ATAC_ONLY	donor-level metadata; class membership is represented in the official peak tables
+donor	official_supplement_Table_S11A	BCM_22_0396		Peripheral	Admixed American	58		1	1					ATAC_ONLY	donor-level metadata; class membership is represented in the official peak tables
+donor	official_supplement_Table_S11A	BCM_22_0784		Peripheral;fovea	African	43		1	2					ATAC_ONLY	donor-level metadata; class membership is represented in the official peak tables
+donor	official_supplement_Table_S11A	Chen_19D013		fovea;macular	European	78		1	2					ATAC_ONLY	donor-level metadata; class membership is represented in the official peak tables
+donor	official_supplement_Table_S11A	Chen_19D014		fovea	European	84		1	1					ATAC_ONLY	donor-level metadata; class membership is represented in the official peak tables
+donor	official_supplement_Table_S11A	Chen_19_D003		Peripheral;macular	European	86		1	5					ATAC_ONLY	donor-level metadata; class membership is represented in the official peak tables
+donor	official_supplement_Table_S11A	Chen_19_D005		Peripheral;macular	Admixed American	53		1	2					ATAC_ONLY	donor-level metadata; class membership is represented in the official peak tables
+donor	official_supplement_Table_S11A	Chen_19_D006		Peripheral;macular	European	90		1	5					ATAC_ONLY	donor-level metadata; class membership is represented in the official peak tables
+donor	official_supplement_Table_S11A	Chen_19_D007		Peripheral;macular	European	66		1	2					PHASE3A_RNA_OVERLAP	donor-level metadata; class membership is represented in the official peak tables
+donor	official_supplement_Table_S11A	Chen_19_D008		Peripheral;macular	Admixed American	64		1	2					ATAC_ONLY	donor-level metadata; class membership is represented in the official peak tables
+donor	official_supplement_Table_S11A	Chen_19_D009		Peripheral;macular	Admixed American	68		1	2					PHASE3A_RNA_OVERLAP	donor-level metadata; class membership is represented in the official peak tables
+donor	official_supplement_Table_S11A	Chen_19_D010		Peripheral;macular	European	88		1	5					PHASE3A_RNA_OVERLAP	donor-level metadata; class membership is represented in the official peak tables
+donor	official_supplement_Table_S11A	Chen_19_D011		Peripheral;macular	European	90		1	2					ATAC_ONLY	donor-level metadata; class membership is represented in the official peak tables
+donor	official_supplement_Table_S11A	Chen_19_D016		macular	European	83		1	1					ATAC_ONLY	donor-level metadata; class membership is represented in the official peak tables
+donor	official_supplement_Table_S11A	Chen_19_D019		Peripheral;macular	European	82		1	5					ATAC_ONLY	donor-level metadata; class membership is represented in the official peak tables
+donor	official_supplement_Table_S11A	Chen_D005_13		Peripheral;macular	European	80		1	2					PHASE3A_RNA_OVERLAP	donor-level metadata; class membership is represented in the official peak tables
+donor	official_supplement_Table_S11A	Chen_D009_13		Peripheral;macular	East Asian	85		1	2					PHASE3A_RNA_OVERLAP	donor-level metadata; class membership is represented in the official peak tables
+donor	official_supplement_Table_S11A	Chen_D013_13		Peripheral;macular	European	69		1	2					ATAC_ONLY	donor-level metadata; class membership is represented in the official peak tables
+donor	official_supplement_Table_S11A	Chen_D017_13		Peripheral;macular	European	65		1	2					ATAC_ONLY	donor-level metadata; class membership is represented in the official peak tables
+donor	official_supplement_Table_S11A	Chen_D018_13		Peripheral;macular	European	91		1	2					ATAC_ONLY	donor-level metadata; class membership is represented in the official peak tables
+donor	official_supplement_Table_S11A	Chen_D026_13		Peripheral;macular	European	81		1	2					ATAC_ONLY	donor-level metadata; class membership is represented in the official peak tables
+donor	official_supplement_Table_S11A	Chen_D19_13		Peripheral;macular	European	82		1	2					ATAC_ONLY	donor-level metadata; class membership is represented in the official peak tables
+donor	official_supplement_Table_S11A	Chen_D21_13		Peripheral;macular	European	86		1	2					ATAC_ONLY	donor-level metadata; class membership is represented in the official peak tables
+donor	official_supplement_Table_S11A	Chen_D27_13		Peripheral;macular	European	77		1	2					ATAC_ONLY	donor-level metadata; class membership is represented in the official peak tables
+donor	official_supplement_Table_S11A	Chen_D28_13		Peripheral;macular	European	67		1	4					ATAC_ONLY	donor-level metadata; class membership is represented in the official peak tables
+donor	official_supplement_Table_S11A	GSM5567523_Hu5		Unknown	Unknown	54		1	1					ATAC_ONLY	donor-level metadata; class membership is represented in the official peak tables
+donor	official_supplement_Table_S11A	GSM5567524_Hu7		Unknown	African	50		1	1					ATAC_ONLY	donor-level metadata; class membership is represented in the official peak tables
+donor	official_supplement_Table_S11A	GSM5567533_Hu8		Unknown	European	52		1	1					ATAC_ONLY	donor-level metadata; class membership is represented in the official peak tables
+donor	official_supplement_Table_S11A	MMD_22_02443		macular	Admixed American	75		1	3					ATAC_ONLY	donor-level metadata; class membership is represented in the official peak tables
+donor	official_supplement_Table_S11A	MMD_22_16477		macular	African	85		1	2					ATAC_ONLY	donor-level metadata; class membership is represented in the official peak tables
+donor	official_supplement_Table_S11A	MMD_22_16608		macular	Admixed American	81		1	2					ATAC_ONLY	donor-level metadata; class membership is represented in the official peak tables
+donor	official_supplement_Table_S11A	MMD_22_17017		macular	East Asian	86		1	3					ATAC_ONLY	donor-level metadata; class membership is represented in the official peak tables
+donor	official_supplement_Table_S11A	MMD_22_17464		macular	African	81		1	2					ATAC_ONLY	donor-level metadata; class membership is represented in the official peak tables
+donor	official_supplement_Table_S11A	MMD_22_20137		macular	Admixed American	90		1	1					ATAC_ONLY	donor-level metadata; class membership is represented in the official peak tables
+class_peak_resource	official_supplement_Table_S12		Astrocyte._.19D016_macular							Astrocyte	158797	GRCh38/hg38			official GroupReplicate label from the class peak table
+class_peak_resource	official_supplement_Table_S12		Astrocyte._.ATAC-MMD-22-20137-Mac-22-3875							Astrocyte	158797	GRCh38/hg38			official GroupReplicate label from the class peak table
+class_peak_resource	official_supplement_Table_S12		Astrocyte._.D018_13_macular							Astrocyte	158797	GRCh38/hg38			official GroupReplicate label from the class peak table
+class_peak_resource	official_supplement_Table_S12		Astrocyte._.D019_13_macular							Astrocyte	158797	GRCh38/hg38			official GroupReplicate label from the class peak table
+class_peak_resource	official_supplement_Table_S12		Astrocyte._.Other							Astrocyte	158797	GRCh38/hg38			official GroupReplicate label from the class peak table
+class_peak_resource	official_supplement_Table_S12		Microglia._.Other							Microglia	176600	GRCh38/hg38			official GroupReplicate label from the class peak table
+class_peak_resource	official_supplement_Table_S12		MG._.19D016_macular							MG	167637	GRCh38/hg38			official GroupReplicate label from the class peak table
+class_peak_resource	official_supplement_Table_S12		MG._.ATAC_22_0183_Retina_N							MG	167637	GRCh38/hg38			official GroupReplicate label from the class peak table
+class_peak_resource	official_supplement_Table_S12		MG._.ATAC_MMD-22-16477_22-2815-mac							MG	167637	GRCh38/hg38			official GroupReplicate label from the class peak table
+class_peak_resource	official_supplement_Table_S12		MG._.D018_13_lobe							MG	167637	GRCh38/hg38			official GroupReplicate label from the class peak table
+class_peak_resource	official_supplement_Table_S12		MG._.D027_13_macular							MG	167637	GRCh38/hg38			official GroupReplicate label from the class peak table
+class_peak_resource	official_supplement_Table_S12		RGC._.19_D010_macular_NeuN_1							RGC	205224	GRCh38/hg38			official GroupReplicate label from the class peak table
+class_peak_resource	official_supplement_Table_S12		RGC._.19_D010_macular_NeuN_2							RGC	205224	GRCh38/hg38			official GroupReplicate label from the class peak table
+class_peak_resource	official_supplement_Table_S12		RGC._.19_D010_macular_NeuN_3							RGC	205224	GRCh38/hg38			official GroupReplicate label from the class peak table
+class_peak_resource	official_supplement_Table_S12		RGC._.19_D019_macular_NeuN_3							RGC	205224	GRCh38/hg38			official GroupReplicate label from the class peak table
+class_peak_resource	official_supplement_Table_S12		RGC._.ATAC_22_0183_fovea_retina							RGC	205224	GRCh38/hg38			official GroupReplicate label from the class peak table
+class_peak_resource	official_supplement_Table_S12		AC._.19D016_macular							AC	215994	GRCh38/hg38			official GroupReplicate label from the class peak table
+class_peak_resource	official_supplement_Table_S12		AC._.19_D010_macular_NeuN_1							AC	215994	GRCh38/hg38			official GroupReplicate label from the class peak table
+class_peak_resource	official_supplement_Table_S12		AC._.ATAC-MMD-22-16608-Mac-22-2855							AC	215994	GRCh38/hg38			official GroupReplicate label from the class peak table
+class_peak_resource	official_supplement_Table_S12		AC._.ATAC-MMD-22-20137-Mac-22-3875							AC	215994	GRCh38/hg38			official GroupReplicate label from the class peak table
+class_peak_resource	official_supplement_Table_S12		AC._.D013_13_lobe							AC	215994	GRCh38/hg38			official GroupReplicate label from the class peak table
+class_peak_resource	official_supplement_Table_S12		HC._.19D016_macular							HC	167646	GRCh38/hg38			official GroupReplicate label from the class peak table
+class_peak_resource	official_supplement_Table_S12		HC._.ATAC-MMD-22-17464-Mac-22-3135							HC	167646	GRCh38/hg38			official GroupReplicate label from the class peak table
+class_peak_resource	official_supplement_Table_S12		HC._.ATAC_22_0389_fovea_retina							HC	167646	GRCh38/hg38			official GroupReplicate label from the class peak table
+class_peak_resource	official_supplement_Table_S12		HC._.ATAC_MMD-22-16608_Mac_22-2855							HC	167646	GRCh38/hg38			official GroupReplicate label from the class peak table
+class_peak_resource	official_supplement_Table_S12		HC._.D019_13_macular							HC	167646	GRCh38/hg38			official GroupReplicate label from the class peak table
+class_peak_resource	official_supplement_Table_S12		BC._.19_D010_lobe							BC	211077	GRCh38/hg38			official GroupReplicate label from the class peak table
+class_peak_resource	official_supplement_Table_S12		BC._.19_D011_lobe							BC	211077	GRCh38/hg38			official GroupReplicate label from the class peak table
+class_peak_resource	official_supplement_Table_S12		BC._.ATAC-MMD-22-17464-Mac-22-3135							BC	211077	GRCh38/hg38			official GroupReplicate label from the class peak table
+class_peak_resource	official_supplement_Table_S12		BC._.ATAC_22_0183_Retina_N							BC	211077	GRCh38/hg38			official GroupReplicate label from the class peak table
+class_peak_resource	official_supplement_Table_S12		BC._.ATAC_22_0389_Retina_N							BC	211077	GRCh38/hg38			official GroupReplicate label from the class peak table
+class_peak_resource	official_supplement_Table_S12		Cone._.19D013_macular							Cone	218488	GRCh38/hg38			official GroupReplicate label from the class peak table
+class_peak_resource	official_supplement_Table_S12		Cone._.19D016_macular							Cone	218488	GRCh38/hg38			official GroupReplicate label from the class peak table
+class_peak_resource	official_supplement_Table_S12		Cone._.ATAC-MMD-22-16608-Mac-22-2855							Cone	218488	GRCh38/hg38			official GroupReplicate label from the class peak table
+class_peak_resource	official_supplement_Table_S12		Cone._.ATAC_22_0389_fovea_retina							Cone	218488	GRCh38/hg38			official GroupReplicate label from the class peak table
+class_peak_resource	official_supplement_Table_S12		Cone._.ATAC_22_0784_Retina_N							Cone	218488	GRCh38/hg38			official GroupReplicate label from the class peak table
+class_peak_resource	official_supplement_Table_S12		Rod._.19_D010_macular							Rod	135675	GRCh38/hg38			official GroupReplicate label from the class peak table
+class_peak_resource	official_supplement_Table_S12		Rod._.19_D019_lobe							Rod	135675	GRCh38/hg38			official GroupReplicate label from the class peak table
+class_peak_resource	official_supplement_Table_S12		Rod._.ATAC-MMD-22-20137-Mac-22-3875							Rod	135675	GRCh38/hg38			official GroupReplicate label from the class peak table
+class_peak_resource	official_supplement_Table_S12		Rod._.ATAC_MMD-22-17464_Mac_22-3135							Rod	135675	GRCh38/hg38			official GroupReplicate label from the class peak table
+class_peak_resource	official_supplement_Table_S12		Rod._.D018_13_lobe							Rod	135675	GRCh38/hg38			official GroupReplicate label from the class peak table

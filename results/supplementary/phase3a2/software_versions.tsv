@@ -1,0 +1,9 @@
+package	version
+anndata	0.11.4
+scanpy	1.11.5
+scdrs	1.0.2
+numpy	2.2.6
+pandas	2.3.3
+scikit-learn	1.7.2
+scipy	1.15.3
+igraph/leidenalg	vendor phase3a2

@@ -1,0 +1,2 @@
+census_version	release_build	release_date	soma_uri	package_version	environment_status	retrieved	notes
+2025-11-08	2025-11-08	2025-11-08	s3://cellxgene-census-public-us-west-2/cell-census/2025-11-08/soma/	1.18.0	PASS	2026-09-04	Fixed LTS release selected; not moving latest

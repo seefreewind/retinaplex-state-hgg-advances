@@ -1,0 +1,4 @@
+trait	scDRS_gene_set_genes	expression_genes	matched_genes	unmatched_genes	match_fraction	duplicate_expression_ids	expression_var_names_are_symbols	expression_ensembl_column	status
+AMD	1000	36601	962	38	0.962	0	yes	gene_ids	PASS
+POAG	1000	36601	937	63	0.937	0	yes	gene_ids	PASS
+RE	1000	36601	955	45	0.955	0	yes	gene_ids	PASS

@@ -1,0 +1,8 @@
+trait	dataset	n	ancestry	h2	se	z	qc	verdict	role
+AMD	GCST003219 / Fritsche-26691988	33976	European	0.3947	0.1583	2.4934	PASS_WITH_WARNINGS	CONDITIONAL-GO	primary_candidate
+POAG	GCST90011766	216257	European	0.2220	0.0168	13.2143	PASS	PRIMARY-GO	primary_candidate
+Refractive error / myopia	Hysi2020_NatGenet / GCST010002	542934	European	NA_NOT_RUN	NA_NOT_RUN	NA_NOT_RUN	NO_FULL_PUBLIC_SUMSTATS_FOUND	NO-GO_UNAVAILABLE	primary_candidate
+Refractive error / myopia	RE_2026_EUR_COMPOSITE	per-variant N; 5590053 raw variants	European	0.1095	0.0048	22.8125	PASS_WITH_COMPOSITE_PHENOTYPE_WARNING	PRIMARY-GO_ALTERNATIVE	primary_alternative
+DR	FinnGen_DR_candidate / Stockwell2023	84277_candidate	European_or_multi_ancestry	NA_NOT_RUN	NA_NOT_RUN	NA_NOT_RUN	SECONDARY_CANDIDATE_NEEDS_T2D_QC	NO-GO_AS_FOURTH_PRIMARY_NOW	conditional_primary_candidate
+RD	Boutin2020_DataShare	NA	NA	NA_NOT_RUN	NA_NOT_RUN	NA_NOT_RUN	MANUAL_TRIAGE_REQUIRED	NO-GO_CORE; EXPLORATORY_ONLY	exploratory
+Cataract	Choquet2021_Cataract_Mixed	585243	Multiple ancestries	NA_NOT_RUN	NA_NOT_RUN	NA_NOT_RUN	CONTROL_CANDIDATE_NOT_PRIMARY	CONDITIONAL-GO_NEGATIVE_CONTROL	negative_ocular_control_candidate

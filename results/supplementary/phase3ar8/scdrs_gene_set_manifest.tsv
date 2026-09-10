@@ -1,0 +1,4 @@
+trait	MAGMA_genes_available	genes_considered	genes_retained	n_min	n_max	weighting	top_score_threshold_rule	final_gene_count	status
+AMD	18262	18262	1000	100	1000	zscore (scDRS munge_gs; weights derived from gene-level ZSTAT)	No FDR/FWER supplied; scDRS selected the n_max=1000 smallest zscore-derived p-values.	1000	PASS
+POAG	18262	18262	1000	100	1000	zscore (scDRS munge_gs; weights derived from gene-level ZSTAT)	No FDR/FWER supplied; scDRS selected the n_max=1000 smallest zscore-derived p-values.	1000	PASS
+RE	18262	18262	1000	100	1000	zscore (scDRS munge_gs; weights derived from gene-level ZSTAT)	No FDR/FWER supplied; scDRS selected the n_max=1000 smallest zscore-derived p-values.	1000	PASS

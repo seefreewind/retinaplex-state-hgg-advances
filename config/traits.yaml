@@ -1,0 +1,34 @@
+traits:
+  - trait_code: AMD
+    trait: age-related macular degeneration
+    role: primary
+    priority: 1
+  - trait_code: POAG
+    trait: primary open-angle glaucoma
+    role: primary
+    priority: 2
+  - trait_code: RE
+    trait: refractive error / myopia
+    role: primary
+    priority: 3
+  - trait_code: DR
+    trait: diabetic retinopathy
+    role: conditional_primary
+    priority: 4
+  - trait_code: RD
+    trait: retinal detachment
+    role: exploratory
+    priority: 5
+  - trait_code: CATARACT
+    trait: cataract
+    role: negative_ocular_control
+    priority: 6
+  - trait_code: IOP
+    trait: intraocular pressure
+    role: endophenotype
+    priority: 7
+  - trait_code: VCDR
+    trait: vertical cup-to-disc ratio
+    role: endophenotype
+    priority: 8
+

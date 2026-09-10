@@ -1,0 +1,4 @@
+trait_1	trait_2	genetic_covariance	covariance_SE	rg	rg_SE	rg_Z	P	FDR	cross_trait_intercept	intercept_SE	snp_count	classification	warnings
+AMD_GCST003219	POAG_GCST90011766	-0.0517	0.0115	-0.1589	0.0791	-2.0082	0.0446	0.0669	-0.0346	0.0058	1170994	SUGGESTIVE	AMD uses signed P reconstruction; primary bivariate LDSC
+AMD_GCST003219	RE_2026_EUR_COMPOSITE	0.0138	0.0081	0.0642	0.0549	1.1708	0.2417	0.2417	0.0119	0.0093	700398	NULL	AMD uses signed P reconstruction; primary bivariate LDSC
+POAG_GCST90011766	RE_2026_EUR_COMPOSITE	-0.0270	0.0046	-0.1732	0.0285	-6.0767	1.2265e-09	3.6795e-09	-0.0262	0.0079	704927	STRONG	POAG-RE likely UK Biobank overlap; intercept reviewed, no manual correction

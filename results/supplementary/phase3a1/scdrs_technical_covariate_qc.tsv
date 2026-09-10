@@ -1,0 +1,13 @@
+trait	technical_variable	cells	global_spearman_rho	global_spearman_p	n_donors_within_test	median_within_donor_rho	max_abs_within_donor_rho	major_dependence_flag	status	notes
+AMD	total_counts	98834	0.0010832503551581293	0.7334448694899071	8	0.06368878374379318	0.24358988415205346	NO_MAJOR_DEPENDENCE_DETECTED	PASS	within-donor Spearman; descriptive QC only; scoring model not changed post hoc
+AMD	n_genes	98834	0.003842441613970695	0.22705834745516457	8	0.06308673166717775	0.22891582986438025	NO_MAJOR_DEPENDENCE_DETECTED	PASS	within-donor Spearman; descriptive QC only; scoring model not changed post hoc
+AMD	pct_counts_mt	98834	-0.01508113144304721	2.1224962080624956e-06	8	-0.02558075097474731	0.1142549385003683	NO_MAJOR_DEPENDENCE_DETECTED	PASS	within-donor Spearman; descriptive QC only; scoring model not changed post hoc
+AMD	sample	98834			0			NOT_ESTIMABLE_SAMPLE_CONFOUNDED_WITH_DONOR	NOT_ESTIMABLE	one sample per donor in the eligible core; sample effect is represented by donor-aware analysis and mapping sensitivities
+POAG	total_counts	98834	0.023285445339508142	2.4548998224477156e-13	8	0.061031339200654934	0.1708202409062396	NO_MAJOR_DEPENDENCE_DETECTED	PASS	within-donor Spearman; descriptive QC only; scoring model not changed post hoc
+POAG	n_genes	98834	0.010703099301123993	0.0007657672839967435	8	0.04432435430499647	0.18334205311193394	NO_MAJOR_DEPENDENCE_DETECTED	PASS	within-donor Spearman; descriptive QC only; scoring model not changed post hoc
+POAG	pct_counts_mt	98834	-0.0061862732702459055	0.05179581742388786	8	-0.004840476231584117	0.0934172813318279	NO_MAJOR_DEPENDENCE_DETECTED	PASS	within-donor Spearman; descriptive QC only; scoring model not changed post hoc
+POAG	sample	98834			0			NOT_ESTIMABLE_SAMPLE_CONFOUNDED_WITH_DONOR	NOT_ESTIMABLE	one sample per donor in the eligible core; sample effect is represented by donor-aware analysis and mapping sensitivities
+RE	total_counts	98834	0.006250948070439046	0.049395768398693536	8	-0.015566830702912236	0.15614158850065607	NO_MAJOR_DEPENDENCE_DETECTED	PASS	within-donor Spearman; descriptive QC only; scoring model not changed post hoc
+RE	n_genes	98834	0.022130486363332424	3.448464375655479e-12	8	-0.014372358169998233	0.21424014955785795	NO_MAJOR_DEPENDENCE_DETECTED	PASS	within-donor Spearman; descriptive QC only; scoring model not changed post hoc
+RE	pct_counts_mt	98834	0.04723439814808141	6.211448076835356e-50	8	0.047522810623932446	0.11984659630138862	NO_MAJOR_DEPENDENCE_DETECTED	PASS	within-donor Spearman; descriptive QC only; scoring model not changed post hoc
+RE	sample	98834			0			NOT_ESTIMABLE_SAMPLE_CONFOUNDED_WITH_DONOR	NOT_ESTIMABLE	one sample per donor in the eligible core; sample effect is represented by donor-aware analysis and mapping sensitivities

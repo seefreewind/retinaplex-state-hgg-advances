@@ -1,0 +1,4 @@
+trait	total_candidate_snps	matching_reference_snps	allele_matched_snps	allele_flipped_snps	excluded_ambiguous_snps	duplicate_snps	missing_N	missing_Z_or_beta	final_usable_snps
+AMD	1217311	1030925	702018	323699	0	0	5207	5207	1025717
+POAG	1217311	1030925	545105	485815	0	0	5	5	1030920
+RE	1217311	1030925	347388	298870	0	0	384667	384667	646258

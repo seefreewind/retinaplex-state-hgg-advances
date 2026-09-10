@@ -1,0 +1,17 @@
+phase0:
+  preferred_ancestry: European
+  h2_z_primary_go_min: 4.0
+  h2_z_conditional_go_min: 2.0
+  minimum_hapmap3_snps_preferred: 900000
+  require_effect_allele: true
+  require_other_allele: true
+  require_p_value: true
+  require_effect_size_for_ldsc: true
+  require_sample_size_or_effective_n: true
+  no_go_conditions:
+    - unusable_summary_statistics
+    - severe_genome_build_ambiguity
+    - unresolved_allele_interpretation
+    - extremely_weak_snp_heritability
+    - insufficient_genome_wide_overlap
+

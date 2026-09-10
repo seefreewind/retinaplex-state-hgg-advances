@@ -1,0 +1,4 @@
+Trait	GWAS	Ancestry	Effective/sample size	h2	h2 SE	h2 Z	Primary interpretation	Power flag	Pairwise genetic correlations
+AMD	GCST003219 / IAMDGC-Fritsche 2016	European	16,144 cases + 17,832 controls; N_eff=33,892.14	0.3947	0.1583	2.4934	Low-precision conditional primary	Lower power; signed-Z reconstruction from direction and P	AMD–POAG rg=-0.1589, FDR=0.0669; AMD–RE rg=+0.0642, FDR=0.2417
+POAG	GCST90011766 / Gharahkhani 2021 first-stage meta-analysis	European	16,677 cases + 199,580 controls; N_eff=61,563.71	0.2220	0.0168	13.2143	Primary GWAS	Strong h2 precision; no-UKBB sensitivity available	POAG–RE rg=-0.1732, FDR=3.68e-9; no-UKBB rg=-0.1766, P=3.20e-9
+RE	RE_2026_EUR_COMPOSITE / Cheng et al. 2026	European	Per-variant N; headline N=1,495,159	0.1095	0.0048	22.8125	Primary alternative composite liability GWAS	Strong h2 precision; not pure quantitative MSE	AMD–RE rg=+0.0642, FDR=0.2417; POAG–RE rg=-0.1732, FDR=3.68e-9

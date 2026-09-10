@@ -1,0 +1,4 @@
+trait_a	trait_b	n_classes	spearman_rho	spearman_p	cosine_similarity	bootstrap_replicates	bootstrap_median	bootstrap_CI95_lower	bootstrap_CI95_upper	bootstrap_fraction_gt_0	standardization
+AMD	POAG	9	0.6833333333333333	0.04244227208707231	0.4493972929416951	5000	0.7166666666666667	0.5476190476190477	0.8166666666666667	1.0	nine-class effects standardized within each trait before similarity; raw p values not compared
+POAG	RE	9	0.8833333333333333	0.0015905004234978701	0.8126063203120593	5000	0.880952380952381	0.5714285714285715	0.9523809523809524	1.0	nine-class effects standardized within each trait before similarity; raw p values not compared
+AMD	RE	9	0.38333333333333336	0.30849527238037144	0.4305269812186666	5000	0.41666666666666663	0.19047619047619052	0.6833333333333333	0.999	nine-class effects standardized within each trait before similarity; raw p values not compared

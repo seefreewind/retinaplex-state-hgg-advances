@@ -1,0 +1,5 @@
+resource	collection_or_record	modality	status	role	notes
+HRCA_v1.0	CELLxGENE 4c6eaf5c-6d57-4c76-b1e9-60df8c655f1e	snRNA	OFFICIAL_ALTERNATIVE_DATA_ROUTE	metadata and separate dataset inventory	Not silently merged
+HRCA_v1.0	Zenodo 14014720	snRNA raw counts	PRIMARY_PENDING	expression for scDRS	Checksum required
+HRCA_v1.0	CELLxGENE 6b6c4c49-8c20-48ca-a4af-e3d6ea6279d4	snRNA RGC subset	ALTERNATIVE_DOWNLOAD_FAILED	technical route validation	20,587 cells; expected 482,211,227 bytes; TLS failure at data host
+HRCA_v1.0	CELLxGENE Census 2025-11-08	TileDB-SOMA Census	CENSUS_UUID_ABSENT	metadata/expression route test	8 official HRCA UUIDs inventoried; 0 present in pinned Census catalog

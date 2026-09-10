@@ -1,0 +1,4 @@
+trait_1	trait_2	n_classes	spearman_rho	p_value	method_note
+AMD	POAG	9	0.2833333333333333	0.46003032896571994	Spearman on broad-class s-LDSC coefficient profiles; sign retained
+AMD	RE	9	0.18333333333333335	0.6368198117628943	Spearman on broad-class s-LDSC coefficient profiles; sign retained
+POAG	RE	9	0.03333333333333333	0.932156735540504	Spearman on broad-class s-LDSC coefficient profiles; sign retained

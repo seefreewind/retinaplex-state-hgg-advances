@@ -1,0 +1,5 @@
+model	estimation	converged	identified	df	chi_square	P	CFI	SRMR	AIC	heywood_case	factor_interpretation	decision
+M0_correlated_observed	DWLS	TRUE	TRUE	0	NA	NA	NA	NA	NA	NO	Saturated covariance reference	Reference only; fit indices not defined
+M1_OCULAR_SHARED	DWLS	TRUE	TRUE	0	NA	NA	NA	NA	NA	NO	Descriptive one-factor parameterization with signed loadings	Not independently testable with 3 indicators; do not claim global factor confirmation
+M2_DEGENERATION_SHARED	NA	FALSE	NA	NA	NA	NA	NA	NA	NA	NA	Two-indicator latent axis with separate RE is underidentified here	Do not fit as primary; report AMD-POAG pairwise covariance instead
+M3_BIFACTOR_OR_TWO_FACTOR	NA	FALSE	NA	NA	NA	NA	NA	NA	NA	NA	Three observed traits are insufficient for defensible complex factor architecture	Not fitted

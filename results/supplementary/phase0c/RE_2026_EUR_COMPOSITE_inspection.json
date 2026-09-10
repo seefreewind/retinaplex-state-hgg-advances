@@ -1,0 +1,140 @@
+{
+  "dataset_id": "RE_2026_EUR_COMPOSITE",
+  "file": "data/raw/RE/Cheng2026/EUR_seven_cohorts_myopia_metal_ratio01_adjusted_no23andme.fastGWAz",
+  "file_size_bytes": 546618578,
+  "raw_row_count": 5590053,
+  "columns": [
+    "SNP",
+    "A1",
+    "A2",
+    "freq",
+    "b",
+    "se",
+    "p",
+    "N",
+    "CHR",
+    "POS",
+    "z"
+  ],
+  "column_mapping": {
+    "chromosome": "CHR",
+    "position": "POS",
+    "rsid": "SNP",
+    "effect_allele": "A1",
+    "other_allele": "A2",
+    "beta": null,
+    "or": null,
+    "se": "se",
+    "p": "p",
+    "eaf": "freq",
+    "info": null,
+    "n": "N"
+  },
+  "chromosome_values_top": [
+    [
+      "2",
+      454192
+    ],
+    [
+      "1",
+      424228
+    ],
+    [
+      "4",
+      414097
+    ],
+    [
+      "3",
+      400099
+    ],
+    [
+      "6",
+      390614
+    ],
+    [
+      "5",
+      358504
+    ],
+    [
+      "7",
+      333849
+    ],
+    [
+      "8",
+      304540
+    ],
+    [
+      "10",
+      288115
+    ],
+    [
+      "11",
+      281519
+    ],
+    [
+      "12",
+      266248
+    ],
+    [
+      "9",
+      244694
+    ],
+    [
+      "13",
+      211378
+    ],
+    [
+      "14",
+      182729
+    ],
+    [
+      "16",
+      168205
+    ],
+    [
+      "18",
+      164351
+    ],
+    [
+      "15",
+      152374
+    ],
+    [
+      "17",
+      143548
+    ],
+    [
+      "19",
+      130216
+    ],
+    [
+      "20",
+      124018
+    ],
+    [
+      "21",
+      77917
+    ],
+    [
+      "22",
+      74618
+    ]
+  ],
+  "chromosome_x_presence": false,
+  "duplicate_variant_key_count": 215,
+  "duplicate_rsid_count": 218,
+  "indel_or_non_snp_allele_count": 329634,
+  "ambiguous_at_cg_snp_count": 813247,
+  "non_biallelic_count": 0,
+  "invalid_allele_count": 329634,
+  "invalid_p_value_count": 0,
+  "invalid_se_count": 0,
+  "invalid_eaf_count": 0,
+  "contains_beta": false,
+  "contains_or": false,
+  "contains_se": true,
+  "contains_p": true,
+  "contains_eaf": true,
+  "contains_n": true,
+  "contains_info": false
+}

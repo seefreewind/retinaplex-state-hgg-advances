@@ -1,0 +1,5 @@
+field	value	cells	donors	samples	minimum_cells_per_donor	donors_with_30_cells	maximum_donor_fraction_of_label	official_state_ready	ontology_broad_label_excluded
+majorclass	MG	9534	8	8	135	8	1.0	OFFICIAL_STATE_INSUFFICIENT	True
+cell_type	CL:0000636	9534	8	8	135	8	1.0	OFFICIAL_STATE_INSUFFICIENT	True
+author_cell_type	CL:0000636	9534	8	8	135	8	1.0	OFFICIAL_STATE_INSUFFICIENT	True
+annotation_source	EXACT_OFFICIAL_ID	9534	8	8	135	8	1.0	OFFICIAL_STATE_INSUFFICIENT	False

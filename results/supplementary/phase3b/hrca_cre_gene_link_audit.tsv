@@ -1,0 +1,9 @@
+resource_layer	metric	value	genes_or_unique_context	cell_classes	muller_linked_cre_or_rows	amacrine_linked_cre_or_rows	status	notes
+formal_official_cre_gene_table	total_CREs	NA	NA	NA	NA	NA	NOT_AVAILABLE_IN_DOWNLOADED_OFFICIAL_WORKBOOK	Formal broad-class CRE-gene edge matrix not exposed in Table S12-S22
+formal_official_cre_gene_table	total_links	NA	NA	NA	NA	NA	NOT_AVAILABLE_IN_DOWNLOADED_OFFICIAL_WORKBOOK	No inferred nearest-gene links substituted
+official_nearest_gene_context	total_class_peak_rows	1657138	23997	9	167637	215994	AUDIT_ONLY	Nearest-gene fields in official Table S12; not formal CRE-gene links
+official_nearest_gene_context	Muller_class_peak_rows	167637	21450	1	167637	0	AUDIT_ONLY	MG OCR rows with official nearestGene annotation
+official_nearest_gene_context	amacrine_class_peak_rows	215994	21805	1	0	215994	AUDIT_ONLY	AC OCR rows with official nearestGene annotation
+published_finemap_context	CRE_gene_edges	25	25	1	NA	NA	AUDIT_ONLY	Table S20 official hg19 locus context; genes=ACOT8;ACTL6B;APOC1;APOC2;APOE;BCAM;C7orf61;CASTOR3;CBLC;DNTTIP1;GIGYF1;GNB2;LHFPL3-AS1;LHFPL3-AS2;MOSPD3;NCOA5;NECTIN2;NYAP1;PCOLCE;PILRA;TFR2;TGFBR1;TSC22D4;WFDC3;ZCWPW1
+published_finemap_context	CRE_gene_edges	38	38	1	NA	NA	AUDIT_ONLY	Table S20 official hg19 locus context; genes=ADAMTS8;ANGPT1;ANGPTL2;ANXA13;ARHGEF12;BICC1;C11orf49;C14orf39;CAV2;CDH11;CLIC5;DDB2;EFEMP1;ENPP5;FBXO32;GARNL3;KLHL38;LOXL1;LOXL1-AS1;LRP8;MALAT1;MAPT;MIR4487;NEAT1;PACSIN3;PLEKHA7;PNPT1;PRKCE;RPS13;SIX6
+published_finemap_context	CRE_gene_edges	193	193	1	NA	NA	AUDIT_ONLY	Table S20 official hg19 locus context; genes=A2M;ABCG4;ABHD6;ACO2;ACTC1;ADAMTS9-AS1;ALS2CL;ANAPC16;ANGPTL4;ANKRD34C-AS1;APOE;BAHCC1;BARHL2;BCAM;BEST1;BICC1;BIN3;BMP3;C10orf95;C14orf39;C17orf82;CACNA1I;CADM2-AS2;CCDC24;CDCA3;CEP350;CERS4;CHRND;CHST1;CMSS1

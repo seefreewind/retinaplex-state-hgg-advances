@@ -1,0 +1,6 @@
+comparison	resolution	primary_resolution	ARI	NMI	cluster_count
+resolution_vs_primary	0.2	0.4	0.806849948024268	0.8933611307809737	7
+resolution_vs_primary	0.4	0.4	1.0	1.0	11
+resolution_vs_primary	0.6	0.4	0.8920354180499943	0.9408520984435496	13
+resolution_vs_primary	0.8	0.4	0.8977688638479467	0.9438823408811411	13
+full_HVG_disease_gene_inclusion	0.4	0.4	0.9063779862849665	0.9116835850005658	10

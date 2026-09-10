@@ -1,0 +1,3 @@
+dataset	role	accessibility	phenotype	N_cases	N_controls	genome_build	beta_se	h2	SE	h2_Z	intercept	intercept_SE	mean_chi2	regression_snps	overlap_notes	decision
+GCST003219_Fritsche2016	primary	available	advanced AMD; signed direction reconstructed	16144	17832	GRCh37_likely	no_beta_SE; signed P	0.3947	0.1583	2.4934	0.9481	0.0109	1.2192	1172481	no documented UKB overlap	LOW_PRECISION_PRIMARY; CONDITIONAL-GO
+Gorman2024_EUR	sensitivity	not accessible with current public permissions	AMD EUR ancestry summary statistics not downloaded	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	dbGaP access required; potential IAMDGC/UKB overlap	RESERVE; do not replace Fritsche without access and QC

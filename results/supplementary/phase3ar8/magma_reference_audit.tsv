@@ -1,0 +1,11 @@
+resource	metric	value	status	notes
+NCBI37.3.gene.loc	number_of_genes	19427	PASS	Standard MAGMA NCBI37.3 six-column resource; first field is the MAGMA/Entrez gene ID.
+NCBI37.3.gene.loc	chromosome_coverage	1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,X,Y	PASS	Expected autosomes 1-22 plus X/Y when present.
+NCBI37.3.gene.loc	duplicate_gene_ids	0	PASS	Duplicate count across first-column MAGMA gene IDs.
+NCBI37.3.gene.loc	malformed_rows	0	PASS	Rows with fewer than six whitespace-delimited fields.
+g1000_eur.bim	snp_count	22665064	PASS	BIM was read as whitespace-delimited PLINK text; duplicate count is based on unique SNP ID.
+g1000_eur.bim	chromosome_coverage	1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23	PASS	Chromosomes observed in BIM first field.
+g1000_eur.bim	rsid_fraction	1.0	PASS	Fraction of SNP IDs beginning with rs, reported descriptively.
+g1000_eur.bim	duplicate_snp_ids	0	PASS	Duplicate count across second-column SNP IDs.
+g1000_eur.bim	malformed_rows	0	PASS	Rows with fewer than six whitespace-delimited fields.
+g1000_eur	ploid_reference_files	g1000_eur.bed,g1000_eur.bim,g1000_eur.fam	PASS	All three PLINK files are present and independently checksum-audited in metadata/magma_reference_provenance.tsv.

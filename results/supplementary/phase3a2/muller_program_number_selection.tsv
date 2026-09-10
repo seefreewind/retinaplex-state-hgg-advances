@@ -1,0 +1,4 @@
+K	mean_normalized_reconstruction_error	sd_normalized_reconstruction_error	mean_component_cosine_stability	minimum_component_cosine_stability	selected	selection_rule
+4	0.3794847452613816	0.0	1.0	0.9999998807907104	False	expression-only: reconstruction within 5% of best, then component stability, then smaller K
+5	0.3760227530379889	5.551115123125783e-17	1.0000001788139343	1.0000001192092896	True	expression-only: reconstruction within 5% of best, then component stability, then smaller K
+6	0.37352806226207513	0.0	1.0000000596046448	1.0	False	expression-only: reconstruction within 5% of best, then component stability, then smaller K

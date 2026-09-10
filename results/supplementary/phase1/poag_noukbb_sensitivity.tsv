@@ -1,0 +1,3 @@
+pair	rg_primary	rg_noUKBB	SE_primary	SE_noUKBB	P_primary	P_noUKBB	change_rg	direction_stable	cross_trait_intercept_primary	cross_trait_intercept_noUKBB	interpretation
+AMD-POAG	-0.1589	-0.1635	0.0791	0.0888	0.0446	0.0657	-0.0046	TRUE	-0.0346	-0.0368	Direction persists; nominal significance is lost and uncertainty increases.
+POAG-RE	-0.1732	-0.1766	0.0285	0.0298	1.2265e-09	3.1986e-09	-0.0034	TRUE	-0.0262	-0.0191	Direction, magnitude, and strong evidence persist; overlap does not explain the signal.

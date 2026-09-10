@@ -1,0 +1,12 @@
+state	cells	donors	donors_with_30_cells	max_donor_fraction	donor_dominated	state_eligible
+MG_state_01	1510	7	2	0.9132450331125828	True	False
+MG_state_02	658	6	1	0.9787234042553191	True	False
+MG_state_03	335	2	1	0.9970149253731343	True	False
+MG_state_04	1096	5	1	0.9863138686131386	True	False
+MG_state_05	1176	8	3	0.8647959183673469	True	False
+MG_state_06	1094	6	1	0.9780621572212066	True	False
+MG_state_07	81	6	1	0.41975308641975306	False	False
+MG_state_08	1469	7	1	0.9748127978216474	True	False
+MG_state_09	770	5	1	0.961038961038961	True	False
+MG_state_10	189	2	1	0.9841269841269841	True	False
+MG_state_11	1156	3	1	0.995674740484429	True	False

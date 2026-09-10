@@ -1,0 +1,4 @@
+trait	GWAS_SNPs_input	GWAS_SNPs_matched_to_reference	annotation_SNPs	annotation_gene_rows	genes_tested	genes_with_valid_ZSTAT	genes_with_valid_P	warnings	status
+POAG	14194331	12524558	0	19371	19313	19313	19313	none	PASS
+AMD	12023711	9046238	0	19371	19153	19153	19153	none	PASS
+RE	3749850	3528398	0	19371	18377	18377	18377	none	PASS

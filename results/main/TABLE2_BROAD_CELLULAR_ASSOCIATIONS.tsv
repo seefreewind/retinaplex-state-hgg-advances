@@ -1,0 +1,28 @@
+Trait	Cell class	Donors	Donor-aware effect	95% CI	Global FDR	Direction consistency	MAGMA support	Evidence tier
+AMD	Muller glia	8	+1.1002	[0.8113, 1.3890]	2.069e-04	8/8 positive; 0/8 negative	beta=+0.0185; P=0.0460; FDR=0.1775	TIER1_BROAD_CLASS
+AMD	RGC	1	-0.0503	NA	1.0000	0/1 positive; 1/1 negative	beta=-0.0081; P=0.7995; FDR=0.9998	NONE
+AMD	amacrine cells	8	-0.4885	[-0.7472, -0.2297]	0.0099	1/8 positive; 7/8 negative	beta=-0.0297; P=0.9885; FDR=0.9998	NONE
+AMD	astrocytes	4	+0.7735	[0.2896, 1.2574]	1.0000	4/4 positive; 0/4 negative	beta=+0.0127; P=0.0950; FDR=0.3207	NONE
+AMD	bipolar cells	8	-0.1012	[-0.2936, 0.0913]	0.5273	3/8 positive; 5/8 negative	beta=-0.0277; P=0.9799; FDR=0.9998	NONE
+AMD	cones	8	+0.0861	[-0.2081, 0.3802]	0.9203	5/8 positive; 3/8 negative	beta=+0.0031; P=0.3790; FDR=0.7871	NONE
+AMD	horizontal cells	7	-0.4864	[-0.8055, -0.1673]	0.0219	1/7 positive; 6/7 negative	beta=-0.0199; P=0.9645; FDR=0.9998	NONE
+AMD	microglia	3	+3.8406	[0.6110, 7.0703]	1.0000	3/3 positive; 0/3 negative	beta=+0.0136; P=0.0222; FDR=0.1198	NONE
+AMD	rods	8	-0.0710	[-0.4493, 0.3074]	1.0000	3/8 positive; 5/8 negative	beta=-0.0038; P=0.6366; FDR=0.9998	NONE
+POAG	Muller glia	8	+1.9826	[1.7994, 2.1659]	9.608e-07	8/8 positive; 0/8 negative	beta=+0.0411; P=3.392e-05; FDR=4.579e-04	TIER1_BROAD_CLASS
+POAG	RGC	1	+0.4828	NA	1.0000	1/1 positive; 0/1 negative	beta=-0.0205; P=0.9887; FDR=0.9998	NONE
+POAG	amacrine cells	8	+0.0196	[-0.2686, 0.3078]	1.0000	4/8 positive; 4/8 negative	beta=-0.0126; P=0.8448; FDR=0.9998	NONE
+POAG	astrocytes	4	+2.4700	[1.9186, 3.0213]	1.0000	4/4 positive; 0/4 negative	beta=+0.0366; P=2.845e-05; FDR=4.579e-04	NONE
+POAG	bipolar cells	8	-0.0750	[-0.2865, 0.1366]	0.8286	3/8 positive; 5/8 negative	beta=-0.0141; P=0.8647; FDR=0.9998	NONE
+POAG	cones	8	-0.0616	[-0.3763, 0.2531]	1.0000	3/8 positive; 5/8 negative	beta=-0.0025; P=0.6045; FDR=0.9998	NONE
+POAG	horizontal cells	7	-0.4452	[-0.7141, -0.1762]	0.0202	0/7 positive; 7/7 negative	beta=-0.0347; P=0.9996; FDR=0.9998	NONE
+POAG	microglia	3	+0.8504	[-0.5336, 2.2344]	1.0000	3/3 positive; 0/3 negative	beta=+0.0066; P=0.1481; FDR=0.4444	NONE
+POAG	rods	8	-0.5777	[-0.8690, -0.2864]	0.0086	0/8 positive; 8/8 negative	beta=-0.0239; P=0.9893; FDR=0.9998	NONE
+RE	Muller glia	8	+1.6183	[1.1882, 2.0484]	2.069e-04	8/8 positive; 0/8 negative	beta=+0.0523; P=2.631e-04; FDR=0.0024	TIER1_BROAD_CLASS
+RE	RGC	1	+0.1904	NA	1.0000	1/1 positive; 0/1 negative	beta=-0.0122; P=0.8163; FDR=0.9998	NONE
+RE	amacrine cells	8	+1.2530	[1.1030, 1.4030]	2.878e-06	8/8 positive; 0/8 negative	beta=+0.0488; P=0.0039; FDR=0.0261	TIER1_BROAD_CLASS
+RE	astrocytes	4	+1.3566	[0.8577, 1.8555]	1.0000	4/4 positive; 0/4 negative	beta=+0.0252; P=0.0316; FDR=0.1422	NONE
+RE	bipolar cells	8	-0.5567	[-0.9131, -0.2003]	0.0208	0/8 positive; 8/8 negative	beta=+0.0115; P=0.2704; FDR=0.6084	NONE
+RE	cones	8	-0.6567	[-0.7893, -0.5241]	6.738e-05	0/8 positive; 8/8 negative	beta=+0.0115; P=0.2110; FDR=0.5698	NONE
+RE	horizontal cells	7	-0.5669	[-0.9380, -0.1958]	0.0219	0/7 positive; 7/7 negative	beta=-0.0523; P=0.9997; FDR=0.9998	NONE
+RE	microglia	3	+0.9036	[-0.2279, 2.0351]	1.0000	3/3 positive; 0/3 negative	beta=-0.0330; P=0.9998; FDR=0.9998	NONE
+RE	rods	8	-0.9272	[-1.1373, -0.7170]	1.092e-04	0/8 positive; 8/8 negative	beta=+0.0100; P=0.2579; FDR=0.6084	NONE

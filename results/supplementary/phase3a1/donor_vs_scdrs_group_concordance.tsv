@@ -1,0 +1,4 @@
+trait	n_classes	spearman_rho	spearman_p	rank_concordance	major_discordant_classes	notes
+AMD	9	0.9333333333333332	0.00023589981215941676	0.9166666666666666	none	comparison is donor-aware effect versus official scDRS assoc_mcz; cell-level group P values are secondary
+POAG	9	0.9333333333333332	0.00023589981215941676	0.9444444444444444	none	comparison is donor-aware effect versus official scDRS assoc_mcz; cell-level group P values are secondary
+RE	9	0.8499999999999999	0.003704777327585812	0.8611111111111112	bipolar cells	comparison is donor-aware effect versus official scDRS assoc_mcz; cell-level group P values are secondary

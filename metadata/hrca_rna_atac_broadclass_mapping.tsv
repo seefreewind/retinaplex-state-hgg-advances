@@ -1,0 +1,11 @@
+rna_broad_class	rna_official_majorclass	atac_official_majorclass	atac_cell_type	phase3b_role	mapping_status	notes
+Muller glia	MG	MG	MG	primary_exact	EXACT_OFFICIAL_MAJORCLASS	Official Table S12/UCSC major-class label
+RGC	RGC	RGC	RGC	primary_exact	EXACT_OFFICIAL_MAJORCLASS	Official Table S12/UCSC major-class label
+amacrine cells	AC	AC	AC	primary_exact	EXACT_OFFICIAL_MAJORCLASS	Official Table S12/UCSC major-class label
+astrocytes	Astrocyte	Astrocyte	Astrocyte	primary_exact	EXACT_OFFICIAL_MAJORCLASS	Official Table S12/UCSC major-class label
+bipolar cells	BC	BC	BC	primary_exact	EXACT_OFFICIAL_MAJORCLASS	Official Table S12/UCSC major-class label
+cones	Cone	Cone	Cone	primary_exact	EXACT_OFFICIAL_MAJORCLASS	Official Table S12/UCSC major-class label
+horizontal cells	HC	HC	HC	primary_exact	EXACT_OFFICIAL_MAJORCLASS	Official Table S12/UCSC major-class label
+microglia	Microglia	Microglia	Microglia	primary_exact	EXACT_OFFICIAL_MAJORCLASS	Official Table S12/UCSC major-class label
+rods	Rod	Rod	Rod	negative_control_predeclared	EXACT_OFFICIAL_MAJORCLASS	Official Table S12/UCSC major-class label
+RPE	RPE	NA	NA	not_tested	NO_MATCH_IN_MAJOR_ATAC_OBJECT	RPE outside frozen nine-class Phase3A-1 core

@@ -1,0 +1,4 @@
+Trait	GWAS	Ancestry	Effective/sample size	h2	h2 SE	h2 Z	Primary interpretation	Power flag
+AMD	GCST003219 / IAMDGC-Fritsche 2016	European	16,144 cases + 17,832 controls; N_eff=33,892.14	0.3947	0.1583	2.4934	Low-precision conditional primary	Lower power; signed-Z reconstruction from direction and P
+POAG	GCST90011766 / Gharahkhani 2021 first-stage meta-analysis	European	16,677 cases + 199,580 controls; N_eff=61,563.71	0.2220	0.0168	13.2143	Primary GWAS	Strong h2 precision; no-UKBB sensitivity available
+RE	RE_2026_EUR_COMPOSITE / Cheng et al. 2026	European	Per-variant N; headline N=1,495,159	0.1095	0.0048	22.8125	Primary alternative composite liability GWAS	Strong h2 precision; not pure quantitative MSE

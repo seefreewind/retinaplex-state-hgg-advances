@@ -1,0 +1,4 @@
+Pair	Genetic rg	rg FDR	Cellular-profile rho	Bootstrap CI	RNA convergence	State evidence	ATAC evidence	Interpretation
+AMD–POAG	-0.1589	0.0669	+0.6833	[0.5476, 0.8167]	Shared Müller glia Tier 1	No donor-replicated Müller state; no consensus state	No FDR-supported class-level OCR enrichment	Partial genetic relationship with shared broad Müller context
+AMD–RE	+0.0642	0.2417	+0.3833	[0.1905, 0.6833]	Shared Müller glia Tier 1; RE also has Tier 1 amacrine association	No donor-replicated Müller state; no consensus state	No FDR-supported class-level OCR enrichment	Shared Müller context with weaker cross-trait profile similarity and RE-specific amacrine component
+POAG–RE	-0.1732	3.679e-09	+0.8833	[0.5714, 0.9524]	Shared Müller glia Tier 1; RE also has Tier 1 amacrine association	No donor-replicated Müller state; no consensus state	No FDR-supported class-level OCR enrichment	Cellular-context convergence despite oppositely signed genome-wide architecture

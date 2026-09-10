@@ -1,0 +1,4 @@
+trait	n_classes	spearman_rho	p_value	classes	method_note
+AMD	9	0.25	0.5164895523012263	MG;AC;BC;Cone;Rod;HC;RGC;Astrocyte;Microglia	Spearman on within-modality standardized broad-class effects; no donor bootstrap because pooled official OCR was the only auditable ATAC annotation
+POAG	9	0.75	0.019942126131992522	MG;AC;BC;Cone;Rod;HC;RGC;Astrocyte;Microglia	Spearman on within-modality standardized broad-class effects; no donor bootstrap because pooled official OCR was the only auditable ATAC annotation
+RE	9	0.16666666666666669	0.668231040071504	MG;AC;BC;Cone;Rod;HC;RGC;Astrocyte;Microglia	Spearman on within-modality standardized broad-class effects; no donor bootstrap because pooled official OCR was the only auditable ATAC annotation

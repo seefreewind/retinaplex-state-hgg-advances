@@ -1,0 +1,166 @@
+freeze_id: RetinaPlex-State-Phase4-FINAL-v1
+freeze_date: 2026-09-06
+freeze_status: FROZEN
+project_name: RetinaPlex-State
+manuscript_verdict: MANUSCRIPT_GO
+authoritative_outputs_read_only_after_freeze: true
+new_biological_analysis_after_freeze: false
+hash_algorithm: SHA256
+
+phase_verdicts:
+  phase1_global_architecture: PARTIAL_SHARED_GO
+  phase2a_local_architecture: DIFFUSE_ARCHITECTURE
+  phase3a1_broad_cellular_mapping: BROAD_CELLULAR_MIXED_GO
+  phase3a2_muller_state_analysis: MULLER_STATE_ANALYSIS_WEAK
+  phase3b_regulatory_validation: RNA_ONLY_MULLER_GO
+
+paper_story:
+  primary_claim: "Ocular disorders with heterogeneous and in some cases oppositely signed genome-wide genetic architectures show diffuse polygenic organization but converge transcriptionally on Müller glia at the broad cellular level."
+  secondary_claim: "Refractive-error genetic liability additionally localizes to amacrine cells, indicating mixed shared and trait-specific retinal cellular contexts."
+  boundary: "The broad RNA-defined convergence does not resolve into a reproducible Müller transcriptional state and is not independently supported by cell-class open-chromatin enrichment in the available regulatory atlas."
+  causal_scope: associative_only
+
+authoritative_files:
+  genetic_architecture:
+    - path: results/phase0/ldsc/AMD_GCST003219.sumstats.gz
+      role: AMD GWAS input
+      sha256: 4913985442aa975790a229052b2e7cedc519339f2c86f4876813a3cba71a03ec
+    - path: results/phase0/ldsc/POAG_GCST90011766.sumstats.gz
+      role: POAG GWAS input
+      sha256: cdd8598cd5a8ac051829219e26328a02e78664ae9e3a684f95f67bba7ef83094
+    - path: results/phase0c/ldsc/RE_2026_EUR_COMPOSITE.sumstats.gz
+      role: European composite refractive-error genetic-liability GWAS input
+      sha256: 857a4dbac69f9c8328cd71dcb5308dcfe1224be1f677e9b392dbf3a94389cb9e
+    - path: results/phase0/gwas_qc_summary.tsv
+      role: GWAS QC and heritability summary
+      sha256: 35ac1e5503882aec02ad4be76e5a8e2e52155349afbff89ad55a248849a570b0
+    - path: results/phase0/ldsc/AMD_GCST003219_h2.log
+      role: AMD LDSC heritability log
+      sha256: 009a9793da52a660dacd96fa1c90fb294411136c003f79a557734768ec2f412e
+    - path: results/phase0/ldsc/POAG_GCST90011766_h2.log
+      role: POAG LDSC heritability log
+      sha256: c1dfcc8ae0edd8ddff7d5c11ea05cbb081b371fb6bfb34dedb965258c68f67e0
+    - path: results/phase0c/ldsc/RE_2026_EUR_COMPOSITE_h2.log
+      role: RE LDSC heritability log
+      sha256: 1b9926ceea56e0ad8b00527ac1ff150424b03fc601da9e1e5ca824af44155421
+    - path: results/phase1/pairwise_ldsc_rg.tsv
+      role: primary pairwise genome-wide genetic correlations
+      sha256: 62c0c897c0936278d8f5da53ccedf5674a5b8e0d83344285cd056f1973f03870
+    - path: results/phase1/poag_noukbb_sensitivity.tsv
+      role: POAG no-UKBB sensitivity
+      sha256: 07624cfaa76aa1d9e836cc9433fd6192b1458fb3fcc4573f7dc316ba1e916b99
+    - path: results/phase1/genomicsem/M0_correlated_observed_results.tsv
+      role: correlated observed-trait GenomicSEM model
+      sha256: 8cf03b39c2d99cb1786227015ac15f6c4a59d2e360cd65e8b5c10b911f95dc09
+    - path: results/phase1/genomicsem/M1_OCULAR_SHARED_results.tsv
+      role: descriptive ocular shared-factor GenomicSEM model
+      sha256: 31e8b7e772fcfff2b4bc91a702f1f554537fd6d05d842d2ab21a1f1a4caf9cfb
+    - path: results/phase1/genomicsem/model_status_primary.tsv
+      role: primary GenomicSEM convergence status
+      sha256: 089f059ca0447de8dc1f8426289b31d48cad38b26ca67d7f6a3165efe5f62530
+    - path: results/phase2a/hdll_local_rg_all.tsv
+      role: HDL-L local genetic-correlation results
+      sha256: 03c0358d966efb3bbc724a8151ad6de68ba242b581727ea2574040fc02264c8f
+    - path: results/phase2a/hdll_noukbb_sensitivity.tsv
+      role: local architecture no-UKBB sensitivity
+      sha256: c107c5bfdc01e82be0e5de9117cbd4d5114569c324c4baae2962c431328dafff
+    - path: results/phase2a/LOCAL_PLEIOTROPY_PRIORITY_TABLE.tsv
+      role: local pleiotropy interpretation table
+      sha256: e6acf7331ffb4c705e71f0fb49f5c4c38a35a8f6ed249d060674af9fc9e08da1
+
+  cellular_analysis:
+    - path: data/single_cell/HRCA/HRCA_EXACT_MAPPED_HEALTHY_CORE.h5ad
+      role: exact-ID-mapped healthy HRCA RNA reference
+      sha256: 85daebcdca6ca2ac6d3dfc9e9fd12fa97d97f04b7917fef1fe6eea5c953e7551
+    - path: results/phase3ar8/retinaplex_traits.gs
+      role: locked scDRS gene sets
+      sha256: 8612743b10053f3fd9f6d8da3778559b8271fe122e53c1e6d3ab05dced32b918
+    - path: results/phase3ar8/magma_gene_scores.tsv
+      role: MAGMA gene scores
+      sha256: 518a7704923217296998462c4266ac8478a5bf1d5c4e0286159564b06f6a915e
+    - path: results/phase3a1/BROAD_CELLULAR_CONSENSUS.tsv
+      role: donor-aware broad cellular consensus
+      sha256: d03b2bd2bf8def7f0acce6eb25b1fbedb5fed2ab202a1ed4d64231f16b5b6637
+    - path: results/phase3a1/magma_broad_celltype_enrichment.tsv
+      role: MAGMA broad-cell comparison
+      sha256: 9c6cdfde98818e7765f93f86f7326084f4d5626670cd8b773666bf62e6daafe0
+    - path: results/phase3a1/mapping_selection_sensitivity.tsv
+      role: mapping-selection sensitivity
+      sha256: b7927bc20637b78d3d586280623d1c00d033b2a3daee1086e05262133afaa457
+    - path: results/phase3a1/leave_one_donor_out.tsv
+      role: leave-one-donor-out broad-cell sensitivity
+      sha256: df860209b1a2fd68ba5a10100230581b1605368a9419994a0f10a7bba0a58110
+    - path: results/phase3a1/cross_trait_broad_profile_similarity.tsv
+      role: cross-trait broad cellular-profile similarity
+      sha256: 35832c8363db76cb8efa3b654d7c7d1224365df5f3e54a33c6d848f93bfe90cb
+    - path: results/phase3a1/cross_trait_standardized_effect_profiles.tsv
+      role: standardized broad-cell effects for profile comparison
+      sha256: b75f4dc20fca04de60c28acb4e8664a145b33e3ca88fb8b0bbe0d1de95971e99
+
+  state_analysis:
+    - path: config/phase3a2_analysis_lock.yaml
+      role: locked Müller state analysis configuration
+      sha256: ce8e6bda00dd692a31eb9ec105328fc1e765bc0ca332fa71249a61565b758b1f
+    - path: results/phase3a2/MULLER_STATE_PROGRAM_CONSENSUS.tsv
+      role: Müller state/program consensus result
+      sha256: ae233697c6acd2502655eef5d2e4c10f4b73ccf15631f7b91fb4f07dc112f341
+    - path: results/phase3a2/muller_state_trait_effects.tsv
+      role: state-level trait effects
+      sha256: 3c2646ff77305c0cff700e366ee1373a6ecbdbd9601dfd4ac51536be47f6eace
+    - path: results/phase3a2/muller_gene_programs.tsv
+      role: expression-only NMF program results
+      sha256: afdbb564b56d29116ef6bb0041ecbf0ea9afa88a53a79b1a77dab20a47025182
+    - path: results/phase3a2/muller_program_number_selection.tsv
+      role: NMF program-number selection
+      sha256: f345510263c8ccad4c47c244ea1c2bb337689fba412ca18aee7fb2b2b6c33f52
+    - path: results/phase3a2/muller_cluster_stability.tsv
+      role: Müller clustering stability
+      sha256: bbbac75b3100a3b6decda4b48405649895fd73cb9fc1d890ef87792a92a87e06
+
+  regulatory_analysis:
+    - path: data/hrca/official_release/41588_2025_2454_MOESM4_ESM.xlsx
+      role: official HRCA retinal ATAC supplement
+      sha256: 8b72cb66ba75be4a919d2423954a4863cdc21020bf6bf0f7c2543997c70fa596
+    - path: results/phase3b/sldsc_retinal_ocr_enrichment.tsv
+      role: cell-class OCR s-LDSC enrichment
+      sha256: 47bd2514650db122b00ada45271fb45b5e0d317206b1ebc1a3d8e7df4c82698a
+    - path: results/phase3b/RNA_ATAC_CELLULAR_CONSENSUS.tsv
+      role: RNA–ATAC cellular consensus
+      sha256: 5f673c1d2dace02b8bc34ed492ab15b17e43b7a5d1389bd792be4bef8fa364f1
+    - path: results/phase3b/rna_atac_profile_concordance.tsv
+      role: descriptive RNA–ATAC profile concordance
+      sha256: 117f0fd75a63d39ff05bf80ace710594e01916e4bd5058cf2d8c64eebb2b01b4
+    - path: results/phase3b/atac_donor_sample_audit.tsv
+      role: ATAC donor/sample audit
+      sha256: a22fe98d0de423a4176caafb415fea3f0a37bec3c886ed95e0e77082b759b476
+    - path: results/phase3b/genome_build_liftover_audit.tsv
+      role: genome-build and coordinate audit
+      sha256: fc1cdb999f65fe5e2dff0d28dfc79b3f1d67127ab8478cbd5acd615f8c6bb236
+    - path: results/phase3b/hrca_cre_gene_link_audit.tsv
+      role: CRE–gene link availability audit
+      sha256: 079829d06bdd36b205a11780ae83ca6a6ce727bde4f9491bee14116c7c998b60
+    - path: results/phase3b/muller_trait_regulon_enrichment.tsv
+      role: official Müller RSS-only regulon audit
+      sha256: f722104c38daaa70da4bc72198f5649887d33ceea0217b038517145844fb22a2
+    - path: config/phase3b_analysis_lock.yaml
+      role: locked regulatory analysis configuration
+      sha256: 76b8abb5cf38b84218b6a23ac3110233280c3d2bcc5bb2b248a20d2e172b51de
+
+  manuscript_tables:
+    - path: tables/TABLE1_GWAS_ARCHITECTURE.tsv
+      role: Phase 4 formatted Table 1
+      sha256: 38613091aa493a15e9ab65b8817e67bb0caac4e0eaf9dbfa43adbd8a62e3daf0
+    - path: tables/TABLE2_BROAD_CELLULAR_ASSOCIATIONS.tsv
+      role: Phase 4 formatted Table 2
+      sha256: 77b31800fa2b5ce47dc909788cdaec9854308205b1faf713008e34b7df0f7efe
+    - path: tables/TABLE3_CROSS_TRAIT_CONVERGENCE.tsv
+      role: Phase 4 formatted Table 3
+      sha256: d483df2aa1d43fbe1f25b6ba906c1116a70b577cf398f8032ca2c4a1c042ae6f
+
+analysis_boundaries:
+  - "Broad scDRS/MAGMA enrichment is associative and does not identify a causal cell of origin."
+  - "POAG–RE cellular-profile similarity compares standardized broad-cell effects and does not imply shared signed allelic effects."
+  - "No donor-replicated Müller state or robust positive NMF program was supported."
+  - "Pooled official OCR annotations did not yield FDR-supported cell-class enrichment."
+  - "The RE phenotype is European composite refractive-error genetic liability, not pure quantitative MSE."
+  - "The three-indicator GenomicSEM factor is descriptive and saturated."

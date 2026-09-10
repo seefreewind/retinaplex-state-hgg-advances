@@ -1,0 +1,5 @@
+software	version	path
+scDRS	1.0.2	SCDRS_PYTHON environment variable
+MAGMA	v1.10 (custom label reported by executable)	MAGMA_EXECUTABLE environment variable
+Python	3.10.21	SCDRS_PYTHON environment variable
+reference	HRCA_EXACT_MAPPED_HEALTHY_CORE	PROJECT_ROOT/data/single_cell/HRCA/HRCA_EXACT_MAPPED_HEALTHY_CORE.h5ad

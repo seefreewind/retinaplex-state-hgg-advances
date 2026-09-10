@@ -1,0 +1,7 @@
+trait_code	pmid	doi	publication	year	evidence_type	key_point	source_url	notes
+AMD	26691988	10.1038/ng.3448	Fritsche et al.	2016	primary_gwas	Advanced AMD European IAMDGC study with 16,144 cases and 17,832 controls.	https://kp4cd.org/node/372	Preferred AMD source if summary-statistics access is recovered.
+POAG	33627673	10.1038/s41467-020-20851-4	Gharahkhani et al.	2021	primary_gwas	European POAG first-stage meta-analysis and trans-ancestry stage available through GWAS Catalog FTP.	https://www.ebi.ac.uk/gwas/studies/GCST011441	GCST011441 catalog page points to paper; summary files are GCST90011766-GCST90011770.
+RE	32231278	10.1038/s41588-020-0599-0	Hysi et al.	2020	primary_gwas	European refractive error/myopia meta-analysis, N=542,934.	https://pmc.ncbi.nlm.nih.gov/articles/PMC7145443/	Publication verified; full summary-statistics access unresolved.
+DR	NA	10.1093/hmg/ddad032	Stockwell et al.	2023	secondary_gwas	Multi-ancestry diabetic eye disease GWAS; requires T2D-confounding assessment.	https://pmc.ncbi.nlm.nih.gov/articles/PMC10461827/	Not promoted to fourth primary in this audit.
+RD	31816047	10.1038/s41598-020-61223-6	Boutin et al.	2020	exploratory_gwas	Publication states RD GWAS summary statistics are available from Edinburgh DataShare.	https://pmc.ncbi.nlm.nih.gov/articles/PMC7068119/	Manual file triage required.
+CATARACT	34127677	10.1038/s41467-021-23873-8	Choquet et al.	2021	negative_control	Multiethnic cataract GWAS, N=585,243, useful as ocular negative control.	https://kp4cd.org/node/1282	Mixed ancestry limits primary EUR LDSC comparability.
