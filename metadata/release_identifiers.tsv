@@ -2,6 +2,7 @@ field	value	status
 public_repository_url	https://github.com/seefreewind/retinaplex-state-hgg-advances	PUBLIC
 repository_visibility	public	CONFIRMED
 default_branch	main	CONFIRMED
-release_tag	PENDING	AUTHOR_ACTION_REQUIRED
+release_tag	v1.0.0	CONFIRMED
 archived_doi_or_accession	PENDING	EXTERNAL_DEPOSIT_REQUIRED
-license	PENDING	AUTHOR_APPROVAL_REQUIRED
+code_license	MIT	APPROVED
+derived_data_license	CC BY 4.0	APPROVED

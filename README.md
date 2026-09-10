@@ -18,7 +18,8 @@ The reported manuscript values are read from the retained result tables. The pac
 - `figure_source_data/`: source tables for Figures 1–5 and Tables 1–3.
 - `scripts/`: selected analysis, table-assembly and display-only figure-assembly scripts.
 - `environment/`: available environment specifications and requirements files.
-- `LICENSE_PLACEHOLDER.txt`: license decision required before public release.
+- `LICENSE`: MIT License for source code, configuration files and environment specifications.
+- `DATA_LICENSE.md`: CC BY 4.0 notice for derived tables, figure source data, metadata and provenance records.
 
 ## Reproduction and inspection
 
@@ -30,4 +31,8 @@ The reported manuscript values are read from the retained result tables. The pac
 
 ## Release status
 
-This release candidate is publicly available at https://github.com/seefreewind/retinaplex-state-hgg-advances. The archived DOI/accession, final license and exact input-file manifest must still be confirmed by the authors before the manuscript is submitted. No DOI, accession or license is invented in this package.
+Version `v1.0.0` is publicly available at https://github.com/seefreewind/retinaplex-state-hgg-advances. The archived DOI/accession and exact input-file manifest must still be confirmed before manuscript submission. No DOI or accession is invented in this package.
+
+## Licensing
+
+Source code, configuration files and environment specifications are released under the MIT License. Derived tables, figure source data, metadata and provenance records are released under CC BY 4.0. Third-party source datasets are not included and remain subject to their original terms.

@@ -1,3 +1,0 @@
-LICENSE PLACEHOLDER
-
-No license is granted by this placeholder. Before public release, the authors must select and add a license for the project code and derived materials, confirm compatibility with third-party scripts and resources, and remove or replace this file with the approved license text.
